@@ -1,0 +1,7 @@
+b AND c -> a
+d RSHIFT 15 -> b
+f OR g -> d
+NOT f -> e
+100 -> f
+f -> g
+e LSHIFT 15 -> c
